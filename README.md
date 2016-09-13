@@ -9,3 +9,9 @@ cd awesome
 
 git submodule update --init
 
+
+
+Installation
+cd ~
+git clone --recursive https://github.com/dynamotn/awesomewm-config
+ln -s ~/awesomewm-config ~/.config/awesome
